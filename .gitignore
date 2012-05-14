@@ -1,4 +1,5 @@
 *.class
+Version.java
 
 # Package Files #
 *.jar

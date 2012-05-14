@@ -7,5 +7,7 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/jms"/>
 	<classpathentry kind="var" path="RESIN_SRC_HOME/modules/ext/javamail-141.jar"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/jcache"/>
+	<classpathentry kind="lib" path="/home/manuel/bin/Eclipse 3.7.2/workspace/lib/appengine-api-1.0-sdk-1.6.5.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hessian"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
